@@ -10,6 +10,7 @@
   <modules>
     <module>study-demo</module>
       <module>study-demo</module>
+      <module>study-basic</module>
   </modules>
   <packaging>pom</packaging>
 
