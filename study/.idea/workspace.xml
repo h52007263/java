@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a66303a3-7bd5-4142-9882-fb02fa53d781" name="Default Changelist" comment="feat: 基本配置信息">
-      <change afterPath="$PROJECT_DIR$/study-basic/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study-basic/src/main/java/com/hzs/nio/ChannelDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study-basic/study-basic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study-demo/src/main/java/java/lang/String.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="a66303a3-7bd5-4142-9882-fb02fa53d781" name="Default Changelist" comment="guava chache简单使用">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study-basic/src/main/java/com/hzs/arraylist/ArrayListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study-basic/src/main/java/com/hzs/cache/GuavaCacheTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study-basic/src/main/java/com/hzs/daily/NewFeature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study-basic/src/main/java/com/hzs/daily/RetryTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study-basic/src/main/java/com/hzs/daily/RetryTemplateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study-basic/src/main/java/com/hzs/sort/SortDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study-basic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/study-basic/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,11 +25,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/study-basic/src/main/java/com/hzs/nio/ChannelDemo.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/study-basic/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="291">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+              <folding>
+                <element signature="n#build#0;n#project#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/study-basic/src/main/java/com/hzs/daily/NewFeature.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="166">
+              <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/study-basic/src/main/java/com/hzs/cache/GuavaCacheTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="122">
+              <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -44,6 +70,13 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>put</find>
+      <find>flip()</find>
+      <find>clear()</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -53,8 +86,16 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/study-demo/pom.xml" />
         <option value="$PROJECT_DIR$/study-demo/src/main/java/java/lang/String.java" />
-        <option value="$PROJECT_DIR$/study-basic/pom.xml" />
         <option value="$PROJECT_DIR$/study-basic/src/main/java/com/hzs/nio/ChannelDemo.java" />
+        <option value="$PROJECT_DIR$/study-basic/src/main/java/com/hzs/arraylist/ArrayListDemo.java" />
+        <option value="$PROJECT_DIR$/study-basic/src/main/java/com/hzs/sort/SortDemo.java" />
+        <option value="$PROJECT_DIR$/study-basic/src/main/java/com/hzs/daily/RetryTemplate.java" />
+        <option value="$PROJECT_DIR$/study-basic/src/main/java/com/hzs/App.java" />
+        <option value="$PROJECT_DIR$/study-basic/src/main/java/com/hzs/daily/Demo.java" />
+        <option value="$PROJECT_DIR$/study-basic/src/main/java/com/hzs/daily/RetryTemplateDemo.java" />
+        <option value="$PROJECT_DIR$/study-basic/pom.xml" />
+        <option value="$PROJECT_DIR$/study-basic/src/main/java/com/hzs/daily/NewFeature.java" />
+        <option value="$PROJECT_DIR$/study-basic/src/main/java/com/hzs/cache/GuavaCacheTest.java" />
       </list>
     </option>
   </component>
@@ -66,11 +107,11 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1944" />
+    <option name="height" value="1044" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -82,6 +123,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -124,17 +166,36 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="hzs" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="study-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hzs" type="462c0819:PsiDirectoryNode" />
+              <item name="cache" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="study-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hzs" type="462c0819:PsiDirectoryNode" />
+              <item name="daily" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577279958761" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577788497612" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -154,13 +215,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.String">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hzs.App" />
-      <module name="study-demo" />
+  <component name="RunManager" selected="Application.NewFeature">
+    <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hzs.arraylist.ArrayListDemo" />
+      <module name="study-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hzs.*" />
+          <option name="PATTERN" value="com.hzs.arraylist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,12 +229,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java.lang.String" />
-      <module name="study-demo" />
+    <configuration name="GuavaCacheTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hzs.cache.GuavaCacheTest" />
+      <module name="study-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java.lang.*" />
+          <option name="PATTERN" value="com.hzs.cache.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewFeature" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hzs.daily.NewFeature" />
+      <module name="study-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hzs.daily.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RetryTemplateDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hzs.daily.RetryTemplateDemo" />
+      <module name="study-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hzs.daily.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hzs.sort.SortDemo" />
+      <module name="study-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hzs.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,8 +283,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.String" />
-        <item itemvalue="Application.App" />
+        <item itemvalue="Application.NewFeature" />
+        <item itemvalue="Application.GuavaCacheTest" />
+        <item itemvalue="Application.RetryTemplateDemo" />
+        <item itemvalue="Application.SortDemo" />
+        <item itemvalue="Application.ArrayListDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +302,8 @@
       <option name="presentableId" value="Default" />
       <updated>1577263856693</updated>
       <workItem from="1577263861023" duration="1630000" />
-      <workItem from="1577265634068" duration="2492000" />
+      <workItem from="1577265634068" duration="12917000" />
+      <workItem from="1577699623135" duration="7576000" />
     </task>
     <task id="LOCAL-00001" summary="feat: 添加demo模块">
       <created>1577264372365</created>
@@ -215,40 +319,54 @@
       <option name="project" value="LOCAL" />
       <updated>1577265031337</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: 添加NIO">
+      <created>1577279991157</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577279991157</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: NIO实现通过channel读取文件到buffer中">
+      <created>1577348747369</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1577348747369</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4122000" />
+    <option name="totallyTimeSpent" value="22123000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1296" height="696" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19989339" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49833888" visible="true" weight="0.2552504" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Web" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32962137" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28148147" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32777777" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32962137" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.38641426" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.38641426" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32962137" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.2857143" />
       <window_info anchor="bottom" id="风险组件扫描" order="14" />
       <window_info anchor="bottom" id="Duplication Code Results" order="15" weight="0.32962137" />
+      <window_info active="true" anchor="bottom" id="Inspection Results" order="16" visible="true" weight="0.32777777" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -259,6 +377,7 @@
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Structure" order="10" sideWeight="0.5016611" side_tool="true" weight="0.3031528" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -307,7 +426,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: 添加demo模块" />
     <MESSAGE value="feat: 基本配置信息" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 基本配置信息" />
+    <MESSAGE value="feat: 添加NIO" />
+    <MESSAGE value="feat: NIO实现通过channel读取文件到buffer中" />
+    <MESSAGE value="guava chache简单使用" />
+    <option name="LAST_COMMIT_MESSAGE" value="guava chache简单使用" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
@@ -346,6 +468,142 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_131/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="633" column="57" selection-start-line="633" selection-start-column="57" selection-end-line="633" selection-end-column="57" />
+          <folding>
+            <element signature="e#19296#19297#0" expanded="true" />
+            <element signature="e#19379#19380#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="195" column="23" selection-start-line="195" selection-start-column="23" selection-end-line="195" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/nio/ch/FileChannelImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-92">
+          <caret line="116" column="40" lean-forward="true" selection-start-line="116" selection-start-column="40" selection-end-line="116" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_131/src.zip!/java/nio/channels/FileChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="347" column="24" selection-start-line="347" selection-start-column="24" selection-end-line="347" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_131/src.zip!/java/nio/DirectByteBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="247" column="16" selection-start-line="247" selection-start-column="16" selection-end-line="247" selection-end-column="16" />
+          <folding>
+            <element signature="e#5514#5515#0" expanded="true" />
+            <element signature="e#5575#5576#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_131/src.zip!/java/nio/ByteBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="559" column="25" selection-start-line="559" selection-start-column="25" selection-end-line="559" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_131/src.zip!/java/nio/Buffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="317" column="5" lean-forward="true" selection-start-line="317" selection-start-column="5" selection-end-line="317" selection-end-column="5" />
+          <folding>
+            <element signature="e#12489#12490#0" expanded="true" />
+            <element signature="e#12528#12529#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_131/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="236" column="7" selection-start-line="236" selection-start-column="7" selection-end-line="236" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-basic/src/main/java/com/hzs/nio/ChannelDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="45" column="37" lean-forward="true" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-basic/src/main/java/com/hzs/arraylist/ArrayListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-95">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-basic/src/main/java/com/hzs/sort/SortDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_131/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="222" selection-start-line="222" selection-end-line="222" />
+          <folding>
+            <element signature="e#6252#6253#0" expanded="true" />
+            <element signature="e#6320#6321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-basic/src/main/java/com/hzs/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-basic/src/main/java/com/hzs/daily/RetryTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="57" column="34" selection-start-line="57" selection-start-column="34" selection-end-line="57" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#setSleepTime#0;class#RetryTemplate#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-basic/src/main/java/com/hzs/daily/RetryTemplateDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/study-demo/src/main/java/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -353,13 +611,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/study-basic/pom.xml">
+    <entry file="file://$PROJECT_DIR$/study-basic/study-basic.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/study-basic/src/main/java/com/hzs/nio/ChannelDemo.java">
+    <entry file="jar://D:/java/repository/com/google/guava/guava/19.0/guava-19.0-sources.jar!/com/google/common/cache/CacheBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        <state relative-caret-position="174">
+          <caret line="330" column="30" lean-forward="true" selection-start-line="330" selection-start-column="30" selection-end-line="330" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-basic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="n#build#0;n#project#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-basic/src/main/java/com/hzs/daily/NewFeature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-basic/src/main/java/com/hzs/cache/GuavaCacheTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
